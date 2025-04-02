@@ -40,3 +40,4 @@ class interfaz:
     
     def Actualizar_interfaz:
         pass
+        
